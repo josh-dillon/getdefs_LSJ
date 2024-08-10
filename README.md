@@ -20,7 +20,7 @@ The script will create "output.txt", a tab-delineated text file containing your 
 Check definitions thoroughly. The script imports definitions only, no grammatical details like gender, case usage or voice information.
 
 ### Credits
-Perseus Tufts and the incomparable Helma Dik of Logeion
+Tthe incomparable Helma Dik of Logeion, Perseus Tufts
 
 ### Errors
 Please report LSJ errors here: https://logeion.uchicago.edu/ (click
