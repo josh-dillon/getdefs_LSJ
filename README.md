@@ -15,7 +15,7 @@ $ python3 getdefs_LSJ.py
 ```
 Depending on the number of words in your list, the script may need some time to finish, so be patient.
 
-The script will create "output.txt", a tab-delineated text file containing your words and their definitions, provided it finds the relevant lemmata in the LSJ.
+The script will create "output.txt", a tab-delimited text file containing your words and their definitions, provided it finds the relevant lemmata in the LSJ.
 
 Check definitions thoroughly. The script imports definitions only, no grammatical details like gender, case usage or voice information.
 
